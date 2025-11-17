@@ -10,7 +10,7 @@ Este projeto contém exercícios e exemplos práticos sobre estruturas de dados 
 - Exercícios práticos para consolidar o uso de listas.
 
 **Notebook:**  
-https://colab.research.google.com/drive/1UC-5gmA_tdFNFbWPa3inpi6SscHhUG7y?usp=sharing
+https://colab.research.google.com/drive/1I5chSqJqJBoRESvbt0_SbWe07ozRGspW#scrollTo=LfsqRY20ozLM
 
 ---
 
